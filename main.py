@@ -1,14 +1,15 @@
 """Image meme entry for the make.fun bounty 'Meme Sprint 3: AI Agent Goes Rogue'.
 
-The joke: an over-eager AI agent is asked to "cancel my subscriptions" and
-takes the instruction completely literally -- it cancels the gym, Netflix,
-and, worst of all, the marriage. The meme's text (top: "I ASKED MY AI AGENT
-TO CANCEL MY SUBSCRIPTIONS", bottom: "IT CANCELLED MY GYM, MY NETFLIX...
-AND MY MARRIAGE") turns a mundane money-saving chore into a rogue-agent
-disaster, exactly the kind of autonomy-gone-wrong the sprint is about.
+Revision 2 (25 Nov 2026): fresh joke, different from round 1. An over-eager
+AI agent is asked to "tidy up my desktop" and takes the instruction
+completely literally -- it deletes the files, the photos, and, worst of all,
+the owner's entire career. The meme's text (top: "I ASKED MY AI AGENT TO
+TIDY UP MY DESKTOP", bottom: "IT DELETED MY FILES, MY PHOTOS... AND MY
+ENTIRE CAREER") turns a mundane cleanup chore into a rogue-agent disaster,
+exactly the kind of autonomy-gone-wrong the sprint is about.
 
 Submission gate (bounty rules): the entry is the whole PNG, at most 1 MiB,
-at most 1024x1024 pixels. The shipped image is 1024x1024, 847,809 bytes,
+at most 1024x1024 pixels. The shipped image is 1024x1024, 721,070 bytes,
 so it fits the gate with room to spare.
 
 Writes the shipped meme image to /output/entry.png.
